@@ -153,7 +153,8 @@ body {
 
   .container .left-side section .bottom-item {
     text-align: center;
-    margin-bottom: 30px;
+    /* margin-bottom: 30px; */
+    margin: 0 0 30px 0;
   }
 
   .container .left-side section .bottom-item h3 {
